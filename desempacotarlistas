@@ -1,0 +1,8 @@
+T = (10,20,30,40,50) #a variavel T recebe os valores
+a, b, c, d, e = T # o indice 0 da variavel T recebe "a" e assim por diante criando o desempacotamento
+print (a),(b),(c),(d),(e) #imprime na tela as variaveis associadas
+print(e) # Imprime na tela a variavel (e)
+print(d) # Imprime na tela a variavel (d)
+print("a=",a,"b=",b) # a variavel "a" recebe 10 e "b" recebe 20
+print("a+b=",a+b)
+print("d+e=",d+e)
